@@ -15,9 +15,18 @@
 ### 说明
 该版本采用短轮询，每三秒刷新一次消息与状态信息
 
+### 阶段使用技术
+- Spring Boot
+- JPA
+- Redis
+- MySQL
+- Thymeleaf
+- bootstrap
 
 ## 阶段二： Version 2 - 基于 WebSocket 长连接与 ACK 的简易聊天系统
 进行中~~
 
 
 ## 阶段三：简单聊天系统功能扩展git 
+
+
